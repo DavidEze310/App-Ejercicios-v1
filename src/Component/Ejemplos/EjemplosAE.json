@@ -1,0 +1,24 @@
+{
+    "EjemplosAe":[
+        {
+            "Dia":"Lunes",
+            "Ejercicio":"Caminata",
+            "Distancia":"5km"
+        },
+        {
+            "Dia":"Martes",
+            "Ejercicio":"Montar en bicicleta",
+            "Distancia":"10km"
+        },
+        {
+            "Dia":"Miercoles",
+            "Ejercicio":"Nadar",
+            "Distancia":"250 mts"
+        },
+        {
+            "Dia":"Jueves",
+            "Ejercicio":"Caminata",
+            "Distancia":"15km"
+        }
+    ]
+}

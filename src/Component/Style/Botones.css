@@ -1,0 +1,26 @@
+.card {
+    border: none;
+    border-radius: 8px;
+     
+}
+.Informacion {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+.Carta {
+    max-height: 145px;
+    max-width: 520px;
+}
+.Info-Carta {
+    padding-left: 0;
+    padding-right: 75px;
+}
+.Carta-h1{
+    font-size: 23px;
+    
+}
+.Carta-p{
+    font-size: 11px;
+    
+}

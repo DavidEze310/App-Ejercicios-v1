@@ -1,0 +1,32 @@
+{
+    "EjemplosAn":[
+        {
+            "Dia":"Lunes",
+            "Ejercicio":"Abdominales",
+            "Series":"4",
+            "Repeticiones":"15",
+            "Peso":"ninguno"
+        },
+        {
+            "Dia":"Lunes",
+            "Ejercicio":"Curl de Bíceps",
+            "Series":"4",
+            "Repeticiones":"10",
+            "Peso":"10k"
+        },
+        {
+            "Dia":"Lunes",
+            "Ejercicio":"Extensión de los antebrazos con mancuerna",
+            "Series":"4",
+            "Repeticiones":"15",
+            "Peso":"3k"
+        },
+        {
+            "Dia":"Lunes",
+            "Ejercicio":"Bíceps en banco scott",
+            "Series":"4",
+            "Repeticiones":"10",
+            "Peso":"10k"
+        }
+    ]
+}
